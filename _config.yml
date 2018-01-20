@@ -1,23 +1,23 @@
 # Dependencies
-markdown:         kramdown
-gems:             [jekyll-paginate]
+markdown:         redcarpet
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-highlight:        pygments
+
 # Setup
-title:            Luke Sonnet
-description:      'PhD Student, Political Science, UCLA'
-url:              http://lukesonnet.github.io
+title:           Maxim Ananyev
+description:     PhD Candidate, Political Science, UCLA
+
 
 author:
-  name:           'Luke Sonnet'
-  url:            https://twitter.com/LukeSonnet
+  name:           ''
 
-paginate:         1
-paginate_path:    "/thoughts/page:num"
+paginate:         5
+
 # Custom vars
-#version:          2.1.0
+version:          2.1.0
 
-#github:
-#  repo:           https://github.com/lukesonnet/lukesonnet.github.io
+github:
+  repo:           https://github.com/poole/hyde
+    
