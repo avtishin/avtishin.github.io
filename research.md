@@ -12,11 +12,10 @@ Accepted for publication in *The Economic Journal*
 This paper draws on a natural experiment to identify the relationship between income and trust. We use a unique panel dataset on Russia where GDP experienced an 8 percent drop in 2009. The effect of the crisis had been very uneven among Russian regions because of their differences in industrial structure inherited from the Soviet period. We find that the regions that specialize in producing capital goods, as well as those depending on oil and gas, had a more substantial income decline during the crisis. The variation in the industrial structure allows creating an instrument for the change in income. After instrumenting average regional income, we find that the effect of income on generalized social trust (the share of respondents saying that most people can be trusted) is statistically and economically significant. Controlling for conventional determinants of trust, we show that 10 percent decrease in income is associated with 5 percentage point decrease in trust. Given that the average level of trust in Russia is 25%, this magnitude is substantial. We also find that post-crisis economic recovery did not restore pre-crisis trust level. Trust recovered only in those regions where the 2009 decline in trust was small. In the regions with the large decline in trust during the crisis, trust in 2014 was still 10 percentage points below its pre-crisis level.
 
 #### Inside the Kremlin: Presidency and Executive Branch
-A chapter in *The New Autocracy: Information, Policy and Politics in Putin’s Russia* (ed: Daniel Treisman), Brookings Institution Press, Washington DC, *forthcoming* 
-([pre-order link](https://www.brookings.edu/book/the-new-autocracy/))
+A chapter in *The New Autocracy: Information, Policy and Politics in Putin’s Russia* (ed: Daniel Treisman), Brookings Institution Press, Washington DC, 2018
 
 #### Public Opinion in Russia (with [Kirill Rogov](http://www.russiapoliticalinsight.com/kirill/))
-A chapter in *The New Autocracy: Information, Policy and Politics in Putin’s Russia* (ed: Daniel Treisman), Brookings Institution Press, Washington DC, *forthcoming* 
+A chapter in *The New Autocracy: Information, Policy and Politics in Putin’s Russia* (ed: Daniel Treisman), Brookings Institution Press, Washington DC, 2018
 ([pre-order link](https://www.brookings.edu/book/the-new-autocracy/))
 
 
