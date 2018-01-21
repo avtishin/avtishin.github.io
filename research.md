@@ -13,10 +13,11 @@ This paper draws on a natural experiment to identify the relationship between in
 
 #### Inside the Kremlin: The Presidency and Executive Branch
 A chapter in *The New Autocracy: Information, Policy and Politics in Putin’s Russia* (ed: Daniel Treisman), Brookings Institution Press, Washington DC, 2018
+([order link](https://www.brookings.edu/book/the-new-autocracy/))
 
 #### Public Opinion and Russian Politics (with [Kirill Rogov](http://www.russiapoliticalinsight.com/kirill/))
 A chapter in *The New Autocracy: Information, Policy and Politics in Putin’s Russia* (ed: Daniel Treisman), Brookings Institution Press, Washington DC, 2018
-([pre-order link](https://www.brookings.edu/book/the-new-autocracy/))
+([order link](https://www.brookings.edu/book/the-new-autocracy/))
 
 
 ## Working Papers
