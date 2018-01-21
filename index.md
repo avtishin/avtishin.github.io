@@ -3,7 +3,7 @@ layout: main
 title: Home
 ---
 
-I am a PhD Candidate in [Political Science](http://polisci.ucla.edu/) at [University of California, Los Angeles](http://www.ucla.edu/) 
+I am a PhD Candidate in [Political Science](http://polisci.ucla.edu/) at [The University of California, Los Angeles](http://www.ucla.edu/) 
 
 I apply methods of computational social science to the problems of authoritarian politics: measuring electoral manipulation, quantifying censorship, studying the behaviour of business elites and the executive branch, exploring the determinants of mass protests and social capital. Most of my work focuses on contemporary Russia.
 
