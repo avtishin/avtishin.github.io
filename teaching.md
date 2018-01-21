@@ -2,8 +2,8 @@
 layout: page
 title: Teaching
 ---
-#### Lecturer
-* Introduction to Data Analysis (Summer 2017)
+#### Instructor
+* Introduction to Data Analysis (Summer 2017) [Syllabus](assets/ps6syllabus17.pdf)
 
 #### Teaching Assistant (graduate level)
 * Maximum Likelihood for Social Science (Fall 2017; Instructor: [Jeffrey Lewis](http://www.sscnet.ucla.edu/polisci/faculty/lewis/))
