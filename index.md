@@ -9,4 +9,4 @@ I apply methods of computational social science to the problems of authoritarian
 
 Before coming to UCLA, I received M.A. in Economics from [New Economic School](https://www.nes.ru/en/home/?lang=en) (with concentration in Finance and Economic Development), M.Sc. in Physics and B.Sc in Physics from [Novosibirsk State University](https://english.nsu.ru/).
 
-You can find PDF version of CV [here](assets/ananyevcv.pdf).
+You can find PDF version of my CV [here](assets/ananyevcv.pdf).
