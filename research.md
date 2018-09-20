@@ -14,10 +14,12 @@ This paper draws on a natural experiment to identify the relationship between in
 #### Inside the Kremlin: The Presidency and Executive Branch
 A chapter in *The New Autocracy: Information, Policy and Politics in Putin’s Russia* (ed: Daniel Treisman), Brookings Institution Press, Washington DC, 2018
 ([order link](https://www.brookings.edu/book/the-new-autocracy/))
+([JSTOR link](https://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.5))
 
 #### Public Opinion and Russian Politics (with [Kirill Rogov](http://www.russiapoliticalinsight.com/kirill/))
 A chapter in *The New Autocracy: Information, Policy and Politics in Putin’s Russia* (ed: Daniel Treisman), Brookings Institution Press, Washington DC, 2018
 ([order link](https://www.brookings.edu/book/the-new-autocracy/))
+([JSTOR link](https://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.11)
 
 
 ## Working Papers
@@ -26,7 +28,7 @@ A chapter in *The New Autocracy: Information, Policy and Politics in Putin’s R
 
 We develop a theory of information flows and political regime change assuming that citizens can use new information and communication technologies (ICTs) for both the information acquisition and protest coordination. The government, in turn, can respond by using censorship in two conceptually different forms: content censorship, or obfuscation, and coordination censorship, or restricting access to ICTs used for coordination. Our theory predicts that, first, introduction of new communication technologies lowers the probability of regime survival, but this effect is weaker in economies that do not rely heavily on ICTs for production. Second, we expect less competent governments to be more likely to use coordination censorship, though this effect is weaker in economies that use ICTs extensively. Third, content censorship is used by the intermediate types of governments. Fourth, both types of censorship are less likely if the costs of protests are higher. We empirically study the patterns of occurrence of DDoS attacks and VPN usage to test the predictions of the model. We find that, consistent with the model, DDoS attacks are used more often if our proxy for regime instability is high, and this effect is stronger in economies that are less dependent on ICTs. We also find that there are fewer DDoS attacks and fewer new VPN subscribers in periods when our proxy for the cost of protests is high.
 
-#### Information Acquisition and Projecting Invincibility in Authoritarian Electionss (with [Michael Poyker](http://www.poykerm.com/))
+#### Information Acquisition and Projecting Invincibility in Authoritarian Elections (with [Michael Poyker](http://www.poykerm.com/))
 [[SSRN link](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2712064)]
 
 What role do elections play in non-democracies? We propose an empirical test that can distinguish between two major families of theories of authoritarian elections: that elections can be used to maintain an image of invincibility of the regime (Influence Theory), or that elections can be used to get information about the popularity of the regime (Information Theory). While those theories might not be mutually exclusive, we show that they generate different predictions about the spatial allocation of electoral manipulations. Under the Influence Theory, electoral manipulations happen in the areas where the protest sentiments are high. Under Information Acquisition theory, electoral manipulation should happen only in the places where the potential for a successful protest is low. Using the data from 2011 Parliamentary Election in Russia and a regionally representative public opinion survey conducted before the election, we find that electoral manipulations were more likely to happen in the regions where the level of protest potential is lower. When the protest potential goes up by 10 percentage points, the estimates of electoral manipulation in a subsequent election go down by a half of their standard deviation thus corroborating Information Theory.
