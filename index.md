@@ -3,7 +3,7 @@ layout: main
 title: Home
 ---
 
-Welcome! I apply methods of computational social science to the problems of political economy of poor and middle-income countries: exporing determinants iof tax avoidance and fiscal capacity, measuring electoral manipulation, quantifying censorship, studying the behavior of business elites and the executive branch. Much of my work focuses on data from Russia.
+Welcome! I apply methods of computational social science to the problems of political economy of poor and middle-income countries: exporing determinants of tax avoidance and fiscal capacity, measuring electoral manipulation, quantifying censorship, studying the behavior of business elites and the executive branch. Much of my work focuses on data from Russia.
 
 I have received Ph.D. in [Political Science](http://polisci.ucla.edu/) and M.Sc. in [Statistics](http://statistics.ucla.edu/) from [The University of California, Los Angeles](http://www.ucla.edu/) in June 2018.  I am now employed as a Lecturer at UCLA offering classes on Russia's domestic politics and foreign policy.
 
