@@ -43,6 +43,12 @@ What role do elections play in non-democracies? We propose an empirical test tha
 
 We demonstrate that civil conflict erodes self-identifcation with a nation-state even among nonrebellious ethnic groups. We model the choice of loyalty (national or ethnic) as a coordination game with strategic complementarities and show how the instances of political instability can break up that coordination and impede nation-building. We perform difference-in-differences estimation using Afrobarometer data. Using the timing of the Tuareg-led insurgency in Mali caused by the demise of the Libyan leader Muammar al-Gaddafi, we find that exposure to insurgency decreases residents' national identification by 57.7 percentage-points. The effect is greater on people who are more informed about local news.
 
+#### Rotten Banks: Predicting Bank Failures After the Great Recession with Binary Classification
+[[Draft](assets/rottenbanks.pdf)]
+I investigate the determinants of bank failures after the financial crisis of the years 2007 - 2009 to build a predictive model of bank failures. I use two paradigms for prediction: accuracy maximization and Neyman-Pearson framework. Accuracy-maximization implies that Type I errors and Type II errors are equally costly, thus out-of-sample predictive accuracy is the most important parameter for evaluation. Neyman-Pearson paradigm implies setting an upper bound for Type I errors and minimizing Type II errors within that bound. In this case, the costs associated with Type I and Type II errors can be different. I find that, because the bank failures are rare events, many of the accuracy-maximizing classifiers tend to assign all the observations to the class of non-failing banks. This achieves out-of-sample predictive accuracy of 96 percent, but misses all the failures.Two algorithms, post-Lasso logit and random forest tend to have relatively low level of Type II errors. The classification with the Neyman-Pearson paradigm performs better in terms of minimizing Type II errors while containing Type I errors. All of the algorithms, in out-of-sample testing, were able to identify at least 50 percent of the failing banks, while having false positive rate below ten percent. The minimum share of Type II errors were displayed by Ada-Boost algorithm (24 percent), while GLM with LASSO penalty and sparse LDA did not perform much worse (the level of Type II errors were 27 percent
+
+
+
 ## Manuscripts in Preparation
 
 #### Estimation of Household Assets with Survey Data (with [Michael Poyker](http://www.poykerm.com/))
