@@ -11,3 +11,4 @@ Before coming to UCLA, I received M.A. in Economics from [The New Economic Schoo
 
 You can find PDF version of my CV [here](assets/ananyevcv.pdf).
 
+I will be available for an interview at the ASSA conference, January 4-6, Atlanta, Georgia
