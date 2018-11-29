@@ -9,7 +9,5 @@ I have received Ph.D. in [Political Science](http://polisci.ucla.edu/) and M.Sc.
 
 Before coming to UCLA, I received M.A. in Economics from [The New Economic School](https://www.nes.ru/en/home/?lang=en) (with concentrations in Finance and Economic Development), and B.Sc. in Physics from [The Novosibirsk State University](https://english.nsu.ru/).
 
-I will be available for an interview at the ASSA conference, January 4-6, Atlanta, Georgia
-
 You can find PDF version of my CV [here](assets/ananyevcv.pdf).
 
