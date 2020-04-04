@@ -22,7 +22,7 @@ Multinational firms often shift their incomes to low-tax jurisdictions, thus rob
 
 
 #### Organized Religion and Origins of Norms: Evidence from Africa (with [Michael Poyker](http://www.poykerm.com))
-[[Draft](http://www.poykerm.com/uploads/9/2/4/6/92466562/organizedreligion.pdf)]
+[[Draft](/assets/missions.pdf)]
 
 We argue that organized religion serves as a powerful mechanism of change and subsequent persistence of cultural norms. We use a geo-coded representative survey of African countries and the location of historical Christian missions to estimate a significant and economically meaningful association between proximity to historical missions and anti-gay sentiments today. Using anthropological data on pre-colonial acceptance of homosexual practices among indigenous groups, we show that the establishment of missions, while nonrandom, was exogenous to pre-existing levels of intolerance among local populations. Thus, we argue that our results are indicative of a causal effect of missionary religious conversion. Our study demonstrates that organized religion can facilitate change in norms and values.
 
