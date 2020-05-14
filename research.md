@@ -26,3 +26,13 @@ This paper studies the business cycles of the Russian economy. This paper aims t
 
  In this paper, I examine the connection between religion and human capital. I want to find the effect of church attendance on human capital. Moreover, I use a non-standard measure of human capital, instead of years of schooling I use PISA test scores. I solve the problem of reverse causality using the instrumental variables. As the IV I take four groups of control variables: geographical controls, economic controls, religious controls and historical controls. The data about religiosity and PISA tests are taken from different surveys and available on the individual levels. I find that there is a strong correlation between church attendance and PISA scores, which can show the difference in human capital between religious and non-religious people.
 
+ <details>
+  <summary>Click to expand!</summary>
+
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
