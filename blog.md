@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Thoughts
 ---
 
@@ -21,7 +21,7 @@ title: Thoughts
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="/_posts/page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="/thoughts/page{{paginator.next_page}}">Older</a>
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
@@ -29,7 +29,7 @@ title: Thoughts
     {% if paginator.page == 2 %}
       <a class="pagination-item newer" href="/thoughts/">Newer</a>
     {% else %}
-      <a class="pagination-item newer" href="/_posts/page{{paginator.previous_page}}">Newer</a>
+      <a class="pagination-item newer" href="/thoughts/page{{paginator.previous_page}}">Newer</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Newer</span>
