@@ -274,8 +274,3 @@ a.sidebar-nav-item:focus {
 .right-image {
     text-align: center;
 }
-
-details[open] summary {
-    margin-bottom: 14px;
-    font-size: 14px;
-}
