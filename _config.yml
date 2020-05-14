@@ -8,10 +8,11 @@ permalink:        pretty
 # Setup
 title:           Alexander Tishin
 description:     Economist, Bank of Russia
+url: "http://avtishin.github.io/"
 
 
 author:
-  name:           ''
+  name:           Alexander Tishin
 
 paginate:         5
 
@@ -20,4 +21,7 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
-    
+  
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
