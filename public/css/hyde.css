@@ -277,11 +277,9 @@ a.sidebar-nav-item:focus {
 
 details {
   font: 16px "Open Sans", Calibri, sans-serif;
-  width: 620px;
 }
 
 details > summary {
-  padding: 2px 6px;
   width: 15em;
   border: none;
   cursor: pointer;
