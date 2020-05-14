@@ -5,68 +5,24 @@ title: Research
 
 ## Published Papers
 
-#### Effect of Income on Trust: Evidence from the 2009 Crisis in Russia (with [Sergei Guriev](http://econ.sciences-po.fr/staff/sergei-guriev)), *The Economic Journal*, Volume 129, Issue 619, April 2019, Pages 1082–1118,
-[[Published Version](https://doi.org/10.1111/ecoj.12612)]
-[[Working Paper Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2542001)] 
+### Tishin, A. (2019). [Monetary Policy Surprises in Russia](https://www.google.com/url?q=https%3A%2F%2Frjmf.econs.online%2Fupload%2Fiblock%2F8db%2FMonetary_Policy_Surprises.pdf&sa=D&sntz=1&usg=AFQjCNE7IV8_7AMcm5l0sU57AidsXF_-vg). Russian Journal of Money and Finance, 78(4), pp. 48–70.
 
-This paper draws on a natural experiment to identify the relationship between income and trust. We use a unique panel dataset on Russia where GDP experienced an 8 percent drop in 2009. The effect of the crisis had been very uneven among Russian regions because of their differences in industrial structure inherited from the Soviet period. We find that the regions that specialize in producing capital goods, as well as those depending on oil and gas, had a more substantial income decline during the crisis. The variation in the industrial structure allows creating an instrument for the change in income. After instrumenting average regional income, we find that the effect of income on generalized social trust (the share of respondents saying that most people can be trusted) is statistically and economically significant. Controlling for conventional determinants of trust, we show that 10 percent decrease in income is associated with 5 percentage point decrease in trust. Given that the average level of trust in Russia is 25%, this magnitude is substantial. We also find that post-crisis economic recovery did not restore pre-crisis trust level. Trust recovered only in those regions where the 2009 decline in trust was small. In the regions with the large decline in trust during the crisis, trust in 2014 was still 10 percentage points below its pre-crisis level.
+[[Published Version](https://rjmf.econs.online/upload/iblock/8db/Monetary_Policy_Surprises.pdf)]
+
+This paper studies the monetary policy transmission in the Russian economy. The key question of this research is to determine how monetary policy affects the economy through currency exchange rates. I construct a series of monetary policy surprises for the Russian economy using the high-frequency identification approach. Many papers use futures on interest rates as monetary policy instruments; however, we do not have these futures on the Russian financial market. Therefore, I use different currency futures as monetary surprises because these futures are liquid, and they may reveal market sentiments. I take the dates when the Board of Directors of the Bank of Russia made a decision on the key rate and look at the changes in the currency exchange market in a tiny 30-minute window. Next, I construct a structural vector autoregression model to show the effect of these surprises on macroeconomic variables. In the identification process, I use the external instruments approach à la Gertler and Karadi (2015). Finally, I compare the results with other methods (Cholesky decomposition). I find that a tightening monetary policy significantly increases the bond rate; moreover, the effect on inflation is not immediate, but appears after a couple of months.
 
 
 ## Working Papers
 
-#### Organized Religion and Origins of Norms: Evidence from Africa (with [Michael Poyker](http://www.poykerm.com))
-(Revisions requested by *Journal of Economic Behavior and Organization*)
-[[PDF](/assets/missions.pdf)]
+### Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with A. Sinyakov and K. Styrin)
 
-We argue that organized religion serves as a powerful mechanism of change and subsequent persistence of cultural norms. We use a geo-coded representative survey of African countries and the location of historical Christian missions to estimate a significant and economically meaningful association between proximity to historical missions and anti-gay sentiments today. Using anthropological data on pre-colonial acceptance of homosexual practices among indigenous groups, we show that the establishment of missions, while nonrandom, was exogenous to pre-existing levels of intolerance among local populations. Thus, we argue that our results are indicative of a causal effect of missionary religious conversion. Our study demonstrates that organized religion can facilitate change in norms and values.
+TBA
 
+### Business Cycle Accounting for a Small Open Economy: The Case of Russia
 
-#### Political Economy of Cross-Border Income Shifting: A Protection Racket Approach 
-(Revisions requested by *Journal of Comparative Economics*)
-[[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3384459)]
+This paper studies the business cycles of the Russian economy. This paper aims to find which frictions are more important for the Russian economy and, therefore, which sectors should be modelled in more detail. I start with the simple case of a closed economy with four distortions, namely, the efficiency, the labour, the investment and the feasibility wedges. However, a closed economy model fails to explain real business cycles in emerging countries. I extend this model to a small open economy to better fit the Russian economy. I have two main findings. For a closed economy, I find that the efficiency and the labour wedges account for most fluctuations in output and investments. The feasibility wedge can play at best the third role. However, for a small open economy, only the efficiency wedge successfully contributes to business cycles fluctuations. The role of the labour wedge is much smaller.
 
-Multinational firms often shift their incomes to low-tax jurisdictions, thus robbing host states of tax revenue. I offer a new theory to explain why some firms do this while others do not. I argue that firms that are more vulnerable to government expropriation are, counterintuitively, less likely to shift income offshore, since complying fully with tax law gives the government a greater stake in their survival. Analyzing a registry-based panel data on multinational firms, their tax burdens, and a cross-sectional information of the firms’ connections to tax havens, l find that, other things equal, firms with more concentrated fixed assets are less likely to use havens. These results challenge existing theories of the political economy of development. Whereas the “Pillars of Prosperity” theory suggests that successful states simultaneously develop protection of property rights and fiscal capacity, my results show that perfect property rights protection can actually undermine the state’s ability to tax. In a world of frictionless international capital flows, some level of expropriation risk may be necessary to prevent a fiscal crisis due to evasion.
+### The Role of Religiosity in Human Capital
 
-
-#### Information and Communication Technologies, Protests, and Censorship (with [Dimitrios Xefteris](https://sites.google.com/site/dxefteris/), [Galina Zudenkova](http://zudenkova.vwl.uni-mannheim.de/) and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/))
-[[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2978549)]
-
-We develop a theory of information flows and political regime change assuming that citizens can use new information and communication technologies (ICTs) for both the information acquisition and protest coordination. The government, in turn, can respond by using censorship in two conceptually different forms: content censorship, or obfuscation, and coordination censorship, or restricting access to ICTs used for coordination. Our theory predicts that, first, introduction of new communication technologies lowers the probability of regime survival, but this effect is weaker in economies that do not rely heavily on ICTs for production. Second, we expect less competent governments to be more likely to use coordination censorship, though this effect is weaker in economies that use ICTs extensively. Third, content censorship is used by the intermediate types of governments. Fourth, both types of censorship are less likely if the costs of protests are higher. We empirically study the patterns of occurrence of DDoS attacks and VPN usage to test the predictions of the model. We find that, consistent with the model, DDoS attacks are used more often if our proxy for regime instability is high, and this effect is stronger in economies that are less dependent on ICTs. We also find that there are fewer DDoS attacks and fewer new VPN subscribers in periods when our proxy for the cost of protests is high.
-
-#### Do Dictators Signal Strength with Elections? (with [Michael Poyker](http://www.poykerm.com/))
-[[SSRN link](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2712064)]
-
-What role do elections play in non-democracies? We propose an empirical test that can distinguish between two major families of theories of authoritarian elections: that elections can be used to maintain an image of invincibility of the regime (Influence Theory), or that elections can be used to get information about the popularity of the regime (Information Theory). While those theories might not be mutually exclusive, we show that they generate different predictions about the spatial allocation of electoral manipulations. Under the Influence Theory, electoral manipulations happen in the areas where the protest sentiments are high. Under Information Acquisition theory, electoral manipulation should happen only in the places where the potential for a successful protest is low. Using the data from 2011 Parliamentary Election in Russia and a regionally representative public opinion survey conducted before the election, we find that electoral manipulations were more likely to happen in the regions where the level of protest potential is lower. When the protest potential goes up by 10 percentage points, the estimates of electoral manipulation in a subsequent election go down by a half of their standard deviation thus corroborating Information Theory.
-
-#### State Capacity and Demand for Identity: Theory and Evidence from Political Instability in Mali (with [Michael Poyker](http://www.poykerm.com/))
-[[PDF](https://www.ineteconomics.org/uploads/papers/WP_97_Poyker-Ananyev.pdf)]
-
-We demonstrate that civil conflict erodes self-identification with a nation-state even among
-nonrebellious ethnic groups. We model the choice of loyalty (national or ethnic) as a coordination game with strategic complementarities and show how the instances of political instability can break up that coordination and impede nation-building. We perform difference-indifferences estimation using Afrobarometer data. Using the onset of Tuareg-led insurgency in
-Mali caused by the demise of the Libyan leader Muammar al-Gaddafi as an exogenous shock
-to state capacity, we find that an instance of civil conflict in a neighbouring region decreases
-residents’ national identification by 26.7 percentage-points. The effect is greater on people who
-are more exposed to local media.
-
-
-## Manuscripts in Preparation
-
-#### Estimation of Household Assets with Survey Data (with [Michael Poyker](http://www.poykerm.com/))
-Estimating material well-being of households in developing countries is as difficult as it is important for many questions in economics and political science {especially, for the theories of voting, redistribution, public opinion, "greed and grievance" in political action, and many others. This paper offers a simple two-step procedure for estimating value of household assets from survey data: on the first step, a researcher should estimate prices using the item-response model that we develop, and on the second step, calculate weighted average of assets for every household using estimated prices as weights. We show with Monte Carlo simulations that this procedure yields relatively precise estimates. Our method opens a way to innovative use of survey data for answering many substantive questions.
-
-#### Unknown Unknowns: How Uncertainty Undermines Protest in Russia (with [Samuel Greene](https://www.kcl.ac.uk/sspp/departments/kri/people/Academics/greene.aspx))
-
-What impact do unexpressed opinions have on contentious politics? In most studies of political opinions, researchers focus on the (relatively) unambiguous categories of ‘yes’ and ‘now’, ‘approve’ and ‘disapprove’, and so on; less often do researchers focus on the other option available to respondents, i.e. to express no opinion at all. In this paper, we explore the phenomenon of non-response to direct political questions in Russia. Drawing on nationally and sub-nationally representative surveys, the paper suggests that using expressed uncertainty as a way of avoiding open dissent may act more powerfully to suppress protest than actual open support for the incumbent regime. By depriving citizens of the ability to know where they stand vis-à-vis prevailing opinions in their community, the paper argues, a prevalence of unexpressed opinions in a given community may make it more difficult for disaffected citizens to make a reasoned decision about whether to protest.
-
-## Book Chapters
-
-#### Inside the Kremlin: The Presidency and Executive Branch
-A chapter in *The New Autocracy: Information, Policy and Politics in Putin’s Russia* (ed: Daniel Treisman), Brookings Institution Press, Washington DC, 2018
-([order link](https://www.brookings.edu/book/the-new-autocracy/))
-([JSTOR link](https://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.5))
-
-#### Public Opinion and Russian Politics (with [Kirill Rogov](http://www.russiapoliticalinsight.com/kirill/))
-A chapter in *The New Autocracy: Information, Policy and Politics in Putin’s Russia* (ed: Daniel Treisman), Brookings Institution Press, Washington DC, 2018
-([order link](https://www.brookings.edu/book/the-new-autocracy/))
-([JSTOR link](https://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.11))
+ In this paper, I examine the connection between religion and human capital. I want to find the effect of church attendance on human capital. Moreover, I use a non-standard measure of human capital, instead of years of schooling I use PISA test scores. I solve the problem of reverse causality using the instrumental variables. As the IV I take four groups of control variables: geographical controls, economic controls, religious controls and historical controls. The data about religiosity and PISA tests are taken from different surveys and available on the individual levels. I find that there is a strong correlation between church attendance and PISA scores, which can show the difference in human capital between religious and non-religious people.
 
