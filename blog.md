@@ -6,11 +6,11 @@ title: Thoughts
 <ul>
   {% for post in site.posts %}
   <div class="post">
-    <h4 class="post-title">
+    <h3 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-    </h4>
+    </h3>
 
      <span class="post-date"> <h6>  <em>{{ post.date | date_to_string }} </em>  </h6></span> 
     
