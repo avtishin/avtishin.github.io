@@ -9,7 +9,7 @@ My name is Alexander Tihsin.
 
 I received M.A. in Economics from [the New Economic School](https://www.nes.ru/?lang=en) in 2019 and B.A. in Economics from [the RANEPA](https://www.ranepa.ru/eng/) in 2017.
 
-My CV is [here](avtishin.github.io/blob/master/assets/Tishin_CV.pdf)
+My CV is [here](/assets/Tishin_CV.pdf)
 
 **Research interests** 
 

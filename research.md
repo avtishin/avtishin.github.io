@@ -12,7 +12,7 @@ title: Research
 This paper studies the monetary policy transmission in the Russian economy. The key question of this research is to determine how monetary policy affects the economy through currency exchange rates. I construct a series of monetary policy surprises for the Russian economy using the high-frequency identification approach. Many papers use futures on interest rates as monetary policy instruments; however, we do not have these futures on the Russian financial market. Therefore, I use different currency futures as monetary surprises because these futures are liquid, and they may reveal market sentiments. I take the dates when the Board of Directors of the Bank of Russia made a decision on the key rate and look at the changes in the currency exchange market in a tiny 30-minute window. Next, I construct a structural vector autoregression model to show the effect of these surprises on macroeconomic variables. In the identification process, I use the external instruments approach à la Gertler and Karadi (2015). Finally, I compare the results with other methods (Cholesky decomposition). I find that a tightening monetary policy significantly increases the bond rate; moreover, the effect on inflation is not immediate, but appears after a couple of months.
 
 
-## Working Papers
+## Working Papers (**drafts upon request**)
 
 ### Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with A. Sinyakov and K. Styrin)
 
