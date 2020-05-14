@@ -12,7 +12,7 @@ title: Thoughts
       </a>
     </h4>
 
-     <h6>  <em> <span class="post-date">{{ post.date | date_to_string }}</span> </em>  </h6>
+     <span class="post-date"> <h6>  <em>{{ post.date | date_to_string }} </em>  </h6></span> 
     
      {% if post.content contains "<!-- more -->" %}
       {{ post.content | split:"<!-- more -->" | first % }}
