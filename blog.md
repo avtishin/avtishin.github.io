@@ -10,10 +10,8 @@ title: Thoughts
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
+      <span class="post-date">{{ post.date | date_to_string }}</span>
     </h4>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-    
      {% if post.content contains "<!-- more -->" %}
       {{ post.content | split:"<!-- more -->" | first % }}
       <div style="text-align:right;">
