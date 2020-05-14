@@ -5,7 +5,7 @@ title: Research
 
 ## Published Papers
 
-### Tishin, A. (2019). [Monetary Policy Surprises in Russia](https://www.google.com/url?q=https%3A%2F%2Frjmf.econs.online%2Fupload%2Fiblock%2F8db%2FMonetary_Policy_Surprises.pdf&sa=D&sntz=1&usg=AFQjCNE7IV8_7AMcm5l0sU57AidsXF_-vg). Russian Journal of Money and Finance, 78(4), pp. 48–70.
+#### Tishin, A. (2019). Monetary Policy Surprises in Russia. Russian Journal of Money and Finance, 78(4), pp. 48–70.
 
 [[Published Version](https://rjmf.econs.online/upload/iblock/8db/Monetary_Policy_Surprises.pdf)]
 
@@ -14,15 +14,15 @@ This paper studies the monetary policy transmission in the Russian economy. The 
 
 ## Working Papers (**drafts upon request**)
 
-### Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with A. Sinyakov and K. Styrin)
+#### Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with A. Sinyakov and K. Styrin)
 
 TBA
 
-### Business Cycle Accounting for a Small Open Economy: The Case of Russia
+#### Business Cycle Accounting for a Small Open Economy: The Case of Russia
 
 This paper studies the business cycles of the Russian economy. This paper aims to find which frictions are more important for the Russian economy and, therefore, which sectors should be modelled in more detail. I start with the simple case of a closed economy with four distortions, namely, the efficiency, the labour, the investment and the feasibility wedges. However, a closed economy model fails to explain real business cycles in emerging countries. I extend this model to a small open economy to better fit the Russian economy. I have two main findings. For a closed economy, I find that the efficiency and the labour wedges account for most fluctuations in output and investments. The feasibility wedge can play at best the third role. However, for a small open economy, only the efficiency wedge successfully contributes to business cycles fluctuations. The role of the labour wedge is much smaller.
 
-### The Role of Religiosity in Human Capital
+#### The Role of Religiosity in Human Capital
 
  In this paper, I examine the connection between religion and human capital. I want to find the effect of church attendance on human capital. Moreover, I use a non-standard measure of human capital, instead of years of schooling I use PISA test scores. I solve the problem of reverse causality using the instrumental variables. As the IV I take four groups of control variables: geographical controls, economic controls, religious controls and historical controls. The data about religiosity and PISA tests are taken from different surveys and available on the individual levels. I find that there is a strong correlation between church attendance and PISA scores, which can show the difference in human capital between religious and non-religious people.
 
