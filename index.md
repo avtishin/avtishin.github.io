@@ -13,17 +13,16 @@ My CV is [here](avtishin.github.io/blob/master/assets/Tishin_CV.pdf)
 
 **Research interests** 
 
-	*Macroeconomics*
+​	*Macroeconomics*
 
 
 **Position**
 
-	*Economist*
-	*Research and Forecasting Department* 
-	*Bank of Russia, Moscow, Russia*
-
+​	*Economist*
+​	*Research and Forecasting Department* 
+​	*Bank of Russia, Moscow, Russia*
 
 **Contacts** 
 
-	*atishin[at]nes[dot]ru*
+​	*atishin[at]nes[dot]ru*
 
