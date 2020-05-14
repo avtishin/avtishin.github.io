@@ -1,6 +1,7 @@
 ---
 layout: main
 title: Home
+font-size: 16pt
 ---
 
 **Welcome!** 
@@ -19,7 +20,9 @@ My CV is [here](/assets/Tishin_CV.pdf)
 **Position**
 
 ​	*Economist*
+
 ​	*Research and Forecasting Department* 
+
 ​	*Bank of Russia, Moscow, Russia*
 
 **Contacts** 
