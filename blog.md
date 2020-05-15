@@ -16,8 +16,8 @@ title: Thoughts
     
      {% if post.content contains "<!-- more -->" %}
       {{ post.content | split:"<!-- more -->" | first % }}
-      <div style="text-align:right;related-posts li small">
-        <a href="{{ post.url }}" style="color:#000;"> Read More </a>
+      <div style="text-align:right;">
+        <a href="{{ post.url }}" style="color:#000;"> <h5 class="related-posts li small"> Read More </h5> </a>
       </div>
     {% else %}
       {{ post.content }}
