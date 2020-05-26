@@ -7,9 +7,9 @@ permalink: /
 permalink:        pretty
 
 # Setup
-title:           Alexander Tishin
-description:     'Economist, Bank of Russia'
-tagline:          'Personal page'
+title:           'Alexander Tishin - personal page'
+description:     'My personal site, Economist, Bank of Russia'
+tagline:          'Personal page, economics, macroecnomics'
 url: 'http://avtishin.github.io/'
 
 
@@ -22,8 +22,8 @@ paginate_path: "thoughts/page:num/"
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
-
+  repo:           https://github.com/avtishin/avtishin.github.io
+  
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
