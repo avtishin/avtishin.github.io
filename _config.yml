@@ -9,8 +9,8 @@ permalink:        pretty
 title:           'Alexander Tishin'
 description:     'Economist, Bank of Russia'
 tagline:          'Personal page, economics, macroecnomics'
-url: 'http://avtishin.github.io/'
-baseurl: 'http://avtishin.github.io/'
+url: 'http://avtishin.github.io'
+
 
 
 author:
