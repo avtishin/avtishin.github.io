@@ -12,6 +12,10 @@ I received M.A. in Economics from [the New Economic School](https://www.nes.ru/?
 
 My CV is [here](/assets/Tishin_CV.pdf)
 
+My [Google Scholar](https://scholar.google.com/citations?user=nu2INR8AAAAJ&hl=en&citsig=AMD79ooXQboDEQQpoI-0M_7pfiS69WOedg) 
+
+
+
 **Research interests** 
 
 ​	*Macroeconomics*
