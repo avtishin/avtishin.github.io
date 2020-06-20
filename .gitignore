@@ -13,7 +13,7 @@
 *.swp
 *.zip
 *.vi
-*.pdf
+# *.pdf
 *~
 
 # OS or Editor folders
