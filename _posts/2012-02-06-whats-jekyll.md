@@ -1,10 +1,21 @@
 ---
 layout: post
-title: Blog post
+title: Must read papers
 ---
 
-It is my first blog post
+Hello, I start this posting with a (possible) long list of papers, which, in my opinion, is either important (from point of view the frontier) or educative (talk about the important conceptions/models in a simple way).
 
 <!-- more -->
 
-long post
+
+1. [A Crash Course in Good and Bad Controls]() by Carlos Cinelli, Andrew Forney and Judea Pearl
+2. [Money creation in the modern economy](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy) by By Michael McLeay, Amar Radia and Ryland Thomas
+3. [The Macroeconomist as Scientist and Engineer](https://www.nber.org/papers/w12349) by N. Gregory Mankiw
+4.  [What Are Economic Models](https://www.imf.org/external/pubs/ft/fandd/2011/06/basics.htm) by Sam Ouliaris
+
+5. [Dilemma not trilemma: the global financial cycle and monetary policy](https://www.nber.org/papers/w21162) by Hélène Rey
+
+
+### In Russian 
+
+1. [Где найти данные в сети?](http://quantile.ru/06/06-AT.pdf) Станислав Анатольев и Александр Цыплаков
