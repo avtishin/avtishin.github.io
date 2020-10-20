@@ -17,14 +17,19 @@ title: Research
 
 <h2> Working Papers  </h2>
 
-<h4>Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with A. Sinyakov and K. Styrin) </h4>
+<h4>Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with K. Styrin), 2020 </h4>
 
-TBA
+  <details>
+  <summary>Abstract</summary>
+
+<p><em>
+In this paper we study a three-period model with nominal rigidities and financial frictions. We analyze the optimal coordination between monetary and preventive macroprudential policies seeking to reduce the impact of anticipated shocks. To do it, we assume three types of firms. Two of three types are capital-utilizing-firms with different technologies: linear and concave. Linear technology firms are more effective users of capital but they are collateral constrained which are the source of pecuniary externality. The third type of firms utilizes labour force and operates under fully rigid prices which leads to aggregate demand externality.  In usual circumstances agents do not internalise how their private decisions affect aggregate prices and aggregate demand. Overborrowing and rigid prices increase the severity of the crisis leading to inefficient allocations. Then we show that Social Planner who internalize decisions can improve allocation achieving the second-best and reducing the severity of the crisis.  Our model allows us to study sector-specific macroprudential policies, spillovers between sectors and interaction between monetary and macroprudential policies.​
+</em></p>
+ </details>
 
 
 
-
-<h2> Shirking papers (drafts upon request) </h2>
+<h2> Shirking papers </h2>
 
 <h4> Business Cycle Accounting for a Small Open Economy: The Case of Russia </h4>
 
