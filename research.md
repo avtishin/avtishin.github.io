@@ -5,9 +5,11 @@ title: Research
 
 <h2> Published Papers</h2>
 
-<h4>Tishin, A. (2019). Monetary Policy Surprises in Russia. Russian Journal of Money and Finance, 78(4), pp. 48–70.</h4>
+<h4>Tishin, A. (2019). Monetary Policy Surprises in Russia. Russian Journal of Money and Finance, 78(4), pp. 48–70. [[Publisher's Version](https://rjmf.econs.online/upload/iblock/8db/Monetary_Policy_Surprises.pdf)] </h4> 
 
-[[Published Version](https://rjmf.econs.online/upload/iblock/8db/Monetary_Policy_Surprises.pdf)]
+
+
+[[Publisher's Version](https://rjmf.econs.online/upload/iblock/8db/Monetary_Policy_Surprises.pdf)]
 
   <details>
   <summary>Abstract</summary>
@@ -16,6 +18,16 @@ title: Research
  </details>
 
 <h2> Working Papers  </h2>
+
+<h4>Time-varying effects of monetary policy and forward guidance (joint with V. Abramov and K. Styrin), 2020 </h4>
+
+  <details>
+  <summary>Abstract</summary>
+
+<p><em>
+TBA
+</em></p>
+ </details>
 
 <h4>Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with K. Styrin), 2020 </h4>
 
