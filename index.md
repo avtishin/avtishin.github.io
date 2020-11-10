@@ -18,7 +18,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=nu2INR8AAAAJ&hl=en
 
 **Research interests** 
 
-​	*Macroeconomics*
+​	*Macroeconomics, Monetary Policy*
 
 
 **Position**
