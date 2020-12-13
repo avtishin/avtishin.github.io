@@ -19,17 +19,9 @@ title: Research
 
 <h2> Working Papers  </h2>
 
-<h4>Time-varying effects of monetary policy and forward guidance (joint with V. Abramov and K. Styrin), 2020 </h4>
+<h4>Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with K. Styrin) </h4>
 
-  <details>
-  <summary>Abstract</summary>
-
-<p><em>
-TBA
-</em></p>
- </details>
-
-<h4>Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with K. Styrin), 2020 </h4>
+[SOON]
 
   <details>
   <summary>Abstract</summary>
@@ -40,6 +32,18 @@ In this paper we study a three-period model with nominal rigidities and financia
  </details>
 
 
+<h2> Work in Progress: </h2>
+
+<h4>Time-varying effects of monetary policy and forward guidance (joint with V. Abramov and K. Styrin) </h4>
+
+  <details>
+  <summary>Abstract</summary>
+
+<p><em>
+TBA
+</em></p>
+ </details>
+ 
 
 <h2> Shirking papers </h2>
 
