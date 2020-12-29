@@ -32,7 +32,7 @@ In this paper we study a three-period model with nominal rigidities and financia
  </details>
 
 
-<h2> Work in Progress: </h2>
+<h2> Work in Progress </h2>
 
 <h4>Time-varying effects of monetary policy and forward guidance (joint with V. Abramov and K. Styrin) </h4>
 
