@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-<h2> Published Papers</h2>
+<h3> Published Papers</h3>
 
 <h4>Tishin, A. (2019). Monetary Policy Surprises in Russia. Russian Journal of Money and Finance, 78(4), pp. 48–70. </h4> 
 
@@ -17,7 +17,7 @@ title: Research
 <p><em>This paper studies the monetary policy transmission in the Russian economy. The key question of this research is to determine how monetary policy affects the economy through currency exchange rates. I construct a series of monetary policy surprises for the Russian economy using the high-frequency identification approach. Many papers use futures on interest rates as monetary policy instruments; however, we do not have these futures on the Russian financial market. Therefore, I use different currency futures as monetary surprises because these futures are liquid, and they may reveal market sentiments. I take the dates when the Board of Directors of the Bank of Russia made a decision on the key rate and look at the changes in the currency exchange market in a tiny 30-minute window. Next, I construct a structural vector autoregression model to show the effect of these surprises on macroeconomic variables. In the identification process, I use the external instruments approach à la Gertler and Karadi (2015). Finally, I compare the results with other methods (Cholesky decomposition). I find that a tightening monetary policy significantly increases the bond rate; moreover, the effect on inflation is not immediate, but appears after a couple of months.</em></p>
  </details>
 
-<h2> Working Papers  </h2>
+<h3> Working Papers  </h3>
 
 <h4>Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with K. Styrin) </h4>
 
@@ -32,7 +32,7 @@ In this paper we study a three-period model with nominal rigidities and financia
  </details>
 
 
-<h2> Work in Progress </h2>
+<h3> Work in Progress </h3>
 
 <h4>Time-varying effects of monetary policy and forward guidance (joint with V. Abramov and K. Styrin) </h4>
 
@@ -45,7 +45,7 @@ TBA
  </details>
  
 
-<h2> Shirking papers </h2>
+<h3> Shirking papers </h3>
 
 <h4> Business Cycle Accounting for a Small Open Economy: The Case of Russia </h4>
 
