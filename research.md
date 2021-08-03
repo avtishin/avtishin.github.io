@@ -19,7 +19,7 @@ title: Research
 
 <h3> Working Papers  </h3>
 
-<h4>Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with K. Styrin) </h4>
+<h4>Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with K. Styrin), 2021 </h4>
 
 [[Working paper]](/assets/papers/ST_draft.pdf) [[Slides]](/assets/papers/ST_draft_slides.pdf)
 
@@ -34,7 +34,28 @@ In this paper, we develop a simple framework to study optimal macroprudential an
 
 <h3> Work in Progress </h3>
 
-<h4> Monetary Policy and the Yield Curve (joint with V. Abramov and K. Styrin) </h4>
+<h4> Monetary Policy and the Yield Curve (joint with V. Abramov and K. Styrin), 2021 </h4>
+
+  <details>
+  <summary>Abstract</summary>
+
+<p><em>
+TBA
+</em></p>
+ </details>
+ 
+<h4> High-frequency data -- use with caution: Evidence from Russia (joint with S. Seleznev), 2021 </h4>
+
+  <details>
+  <summary>Abstract</summary>
+
+<p><em>
+TBA
+</em></p>
+ </details>
+ 
+ 
+<h4> Insulation from external shocks]{Insulation from external shocks: Evidence from Russia, 2021 </h4>
 
   <details>
   <summary>Abstract</summary>
