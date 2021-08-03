@@ -21,7 +21,7 @@ title: Research
 
 <h4>Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with K. Styrin) </h4>
 
-[[Working paper]](/assets/papers/ST_draft.pdf)
+[[Working paper]](/assets/papers/ST_draft.pdf) [[Slides]](/assets/papers/ST_draft_slides.pdf)
 
   <details>
   <summary>Abstract</summary>
@@ -34,7 +34,7 @@ In this paper, we develop a simple framework to study optimal macroprudential an
 
 <h3> Work in Progress </h3>
 
-<h4>Time-varying effects of monetary policy and forward guidance (joint with V. Abramov and K. Styrin) </h4>
+<h4> Monetary Policy and the Yield Curve (joint with V. Abramov and K. Styrin) </h4>
 
   <details>
   <summary>Abstract</summary>
@@ -45,7 +45,7 @@ TBA
  </details>
  
 
-<h3> Shirking papers </h3>
+<h3> Shirking papers (by request)</h3>
 
 <h4> Business Cycle Accounting for a Small Open Economy: The Case of Russia </h4>
 
