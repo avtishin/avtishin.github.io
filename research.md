@@ -55,7 +55,7 @@ TBA
  </details>
  
  
-<h4> Insulation from external shocks]{Insulation from external shocks: Evidence from Russia, 2021 </h4>
+<h4> Insulation from external shocks: Evidence from Russia, 2021 </h4>
 
   <details>
   <summary>Abstract</summary>
