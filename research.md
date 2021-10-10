@@ -21,13 +21,13 @@ title: Research
 
 <h4>Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with K. Styrin), 2021 </h4>
 
-[[Working paper]](/assets/papers/ST_draft.pdf) [[Slides]](/assets/papers/ST_draft_slides.pdf)
+[[Working paper]](/assets/papers/StyrinTishin_draft.pdf) [[Bank of Russia Working Paper]](https://cbr.ru/eng/ec_research/ser/wp_80/) [[Slides]](/assets/papers/ST_draft_slides.pdf)
 
   <details>
   <summary>Abstract</summary>
 
 <p><em>
-In this paper, we develop a simple framework to study optimal macroprudential and monetary policy interactions as a response to a financial shock. Our model combines together nominal rigidities and capital accumulation --  features that were usually studied separately in the previous literature. In our model, we show that the agents do not internalize how their assets purchases affect assets prices. Thus, when a crisis occurs, there are fire sales -- less demand for capital further reduces their price and agents are worse off. Policy intervention (both monetary and macroprudential) can improve allocations by restricting borrowing ex-ante (during the accumulation of risks and imbalances) and stimulating the economy ex-post (during a crisis). As a result, we find a complementarity relation between ex-ante monetary policy and preventive macroprudential policy. We also compare this result with a flexible prices model and frictionless model, and conduct several sensitivity analyses  exercises.
+In this paper, we develop a simple framework to study the optimal macroprudential and monetary policy interactions in response to financial shocks. Our model combines nominal rigidities and capital accumulation, features that have usually been studied separately in previous literature. In our model, we show that agents do not internalise how their asset purchases affect asset prices. Thus, when crises occur, there are fire sales: less demand for capital further reduces prices and agents are worse off. Policy interventions (both monetary and macroprudential) can improve allocations by restricting borrowing ex-ante (during the accumulation of risks and imbalances) and stimulating the economy ex-post (during crises). As a result, we find a complementary relationship between ex-ante monetary policy and preventive macroprudential policy. We also compare this result with a flexible-price model and a frictionless model and conduct several sensitivity analysis exercises.
 </em></p>
  </details>
 
