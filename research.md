@@ -21,7 +21,7 @@ title: Research
 
 <h4>Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with K. Styrin), 2021 </h4>
 
-[[Working paper]](/assets/papers/StyrinTishin_draft.pdf) [[Bank of Russia Working Paper]](https://cbr.ru/eng/ec_research/ser/wp_80/) [[Slides]](/assets/papers/ST_draft_slides.pdf)
+[[Working paper]](/assets/papers/StyrinTishin_draft.pdf) [[Bank of Russia Working Paper]](https://cbr.ru/eng/ec_research/ser/wp_80/) [[Slides]](/assets/papers/StyrinTishin_slides.pdf)
 
   <details>
   <summary>Abstract</summary>
