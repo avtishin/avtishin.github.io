@@ -33,4 +33,4 @@ My [Google Scholar](https://scholar.google.com/citations?user=nu2INR8AAAAJ&hl=en
 
 ​	*atishin[at]nes[dot]ru*
  <br /> <br /> <br /> <br /> <br /> <br />
-<sup>The views expressed in this site are solely those of the author and do not necessarily reflect the official position of the Bank of Russia. The Bank of Russia assumes no responsibility for the contents of the cite.</sup>
+<sup>The views expressed on this website are my own and do not reflect the views of any institution.</sup>

@@ -19,9 +19,21 @@ title: Research
 
 <h3> Working Papers  </h3>
 
+<h4> Monetary Policy and the Yield Curve (joint with V. Abramov and K. Styrin), 2022 </h4>
+[[Working paper]](/assets/papers/AbramovStyrinTishin_draft.pdf) [[Slides]](/assets/papers/AbramovStyrinTishin_slides.pdf)
+
+  <details>
+  <summary>Abstract</summary>
+
+<p><em>
+This paper discusses the impact of monetary policy on financial and macroeconomic variables in Russia. We distinguish two types of monetary policy: (1) that causes by changes in the current rates and (2) that causes by any other reason (such as forward guidance, communication, and central bank information). We find that these two  types have distinct effects on financial variables. The first type better explains the variation of interest rates for the entire yield curve. In contrast, the second type explains the variation in the exchange rate and market indices. Moreover, we also show that monetary policy transmission from interest rates to inflation takes about one year but this effect is only temporary.
+</em></p>
+ </details>
+ 
+ 
 <h4>Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with K. Styrin), 2021 </h4>
 
-[[Working paper (new version!)]](/assets/papers/StyrinTishin_draft_new.pdf) [[Bank of Russia Working Paper]](https://cbr.ru/eng/ec_research/ser/wp_80/) [[Slides]](/assets/papers/StyrinTishin_slides.pdf)
+[[Working paper]](/assets/papers/StyrinTishin_draft_new.pdf) [[Bank of Russia Working Paper]](https://cbr.ru/eng/ec_research/ser/wp_80/) [[Slides]](/assets/papers/StyrinTishin_slides.pdf)
 
   <details>
   <summary>Abstract</summary>
@@ -32,9 +44,23 @@ In this paper, we develop a simple framework to study the optimal macroprudentia
  </details>
 
 
+
 <h3> Work in Progress </h3>
 
-<h4> Monetary Policy and the Yield Curve (joint with V. Abramov and K. Styrin), 2021 </h4>
+
+ 
+<h4> The role of ``extraordinary'' monetary policy shocks (joint with S. Seleznev), 2022 </h4>
+ (by request)
+  <details>
+  <summary>Abstract</summary>
+
+<p><em>
+In this paper, we develop a  framework to study the role of ``extreme'' shocks in Russian data -- shocks that have a magnitude of a few standard deviations.  We find that these shocks are the source of biased estimates of the transmission mechanism which leads to a price puzzle. To show it, we develop a monthly DSGE model. We use this model as a workhorse in simulation exercises in which we focus on monetary policy shock. We simulate our model under several assumptions about the shocks (whether they come from the shock decomposition of observable variables or simulations). Then we use simulated data from the DSGE model in proxy SVAR to obtain empirical impulse response. Finally, we compare these SVAR responses to the responses estimated from the DSGE model. If monetary policy shock does not contain any peaked shocks, then SVAR impulse responses coincide with DSGE impulse responses. However, if we add a peaked value of monetary policy shock, we immediately observe a price puzzle. 
+</em></p>
+ </details>
+ 
+ 
+<!--<h4> Insulation from external shocks: Evidence from Russia, 2021 </h4>
 
   <details>
   <summary>Abstract</summary>
@@ -42,28 +68,7 @@ In this paper, we develop a simple framework to study the optimal macroprudentia
 <p><em>
 TBA
 </em></p>
- </details>
- 
-<h4> High-frequency data -- use with caution: Evidence from Russia (joint with S. Seleznev), 2021 </h4>
-
-  <details>
-  <summary>Abstract</summary>
-
-<p><em>
-TBA
-</em></p>
- </details>
- 
- 
-<h4> Insulation from external shocks: Evidence from Russia, 2021 </h4>
-
-  <details>
-  <summary>Abstract</summary>
-
-<p><em>
-TBA
-</em></p>
- </details>
+ </details>-->
  
 
 <h3> Shirking papers (by request)</h3>
