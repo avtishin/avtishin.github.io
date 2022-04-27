@@ -19,6 +19,18 @@ title: Research
 
 <h3> Working Papers  </h3>
 
+<h4> The role of ``extraordinary'' monetary policy shocks (joint with S. Seleznev), 2022 </h4>
+
+[[Working paper]](/assets/papers/SeleznevTishin_draft.pdf) [[Slides]](/assets/papers/SeleznevTishin_slides.pdf)
+  <details>
+  <summary>Abstract</summary>
+
+<p><em>
+ In this paper, we develop a  framework to study the role of ``extreme'' shocks in Russian data -- shocks that have a magnitude of more than four standard deviations.  We find that these shocks are the source of biased estimates of the transmission mechanism which leads to a price puzzle. To show it, we develop a monthly DSGE model which we use as a workhorse in simulation exercises.  Our focus is on the role of monetary policy shock. We simulate our model under several assumptions about the shocks (whether they come from the shock decomposition of observable variables or simulations). Then we use simulated data from the DSGE model in proxy SVAR to obtain empirical impulse response. Then we compare these responses to the responses estimated from the DSGE model. If monetary policy shock does not contain any peaked shocks, then SVAR impulse responses coincide with DSGE impulse responses. However, if we add a peaked value of monetary policy shock, we immediately observe a price puzzle. 
+</em></p>
+ </details>
+ 
+ 
 <h4> Monetary Policy and the Yield Curve (joint with V. Abramov and K. Styrin), 2022 </h4>
 [[Working paper]](/assets/papers/AbramovStyrinTishin_draft.pdf) [[Slides]](/assets/papers/AbramovStyrinTishin_slides.pdf)
 
@@ -45,19 +57,11 @@ In this paper, we develop a simple framework to study the optimal macroprudentia
 
 
 
-<h3> Work in Progress </h3>
+<!--<h3> Work in Progress </h3>-->
 
 
  
-<h4> The role of ``extraordinary'' monetary policy shocks (joint with S. Seleznev), 2022 </h4>
- (by request)
-  <details>
-  <summary>Abstract</summary>
 
-<p><em>
-In this paper, we develop a  framework to study the role of ``extreme'' shocks in Russian data -- shocks that have a magnitude of a few standard deviations.  We find that these shocks are the source of biased estimates of the transmission mechanism which leads to a price puzzle. To show it, we develop a monthly DSGE model. We use this model as a workhorse in simulation exercises in which we focus on monetary policy shock. We simulate our model under several assumptions about the shocks (whether they come from the shock decomposition of observable variables or simulations). Then we use simulated data from the DSGE model in proxy SVAR to obtain empirical impulse response. Finally, we compare these SVAR responses to the responses estimated from the DSGE model. If monetary policy shock does not contain any peaked shocks, then SVAR impulse responses coincide with DSGE impulse responses. However, if we add a peaked value of monetary policy shock, we immediately observe a price puzzle. 
-</em></p>
- </details>
  
  
 <!--<h4> Insulation from external shocks: Evidence from Russia, 2021 </h4>
