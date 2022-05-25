@@ -23,11 +23,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=nu2INR8AAAAJ&hl=en
 
 **Position**
 
-​	*Economist*
-
-​	*Research and Forecasting Department* 
-
-​	*Bank of Russia, Moscow, Russia*
+​	*Data Analyst & Researcher*
 
 **Contacts** 
 
