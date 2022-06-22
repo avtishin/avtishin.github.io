@@ -32,7 +32,7 @@ title: Research
  
  
 <h4> Monetary Policy and the Yield Curve (joint with V. Abramov and K. Styrin), 2022 </h4>
-[[Working paper]](/assets/papers/AbramovStyrinTishin_draft.pdf) [[Slides]](/assets/papers/AbramovStyrinTishin_slides.pdf)
+[[Working paper]](/assets/papers/AbramovStyrinTishin_draft.pdf) [[Bank of Russia Working Paper]](https://www.cbr.ru/eng/ec_research/ser/wp_95/) [[Slides]](/assets/papers/AbramovStyrinTishin_slides.pdf)
 
   <details>
   <summary>Abstract</summary>
