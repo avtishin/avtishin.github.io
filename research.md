@@ -21,7 +21,8 @@ title: Research
 
 <h4> The role of ``extraordinary'' monetary policy shocks (joint with S. Seleznev), 2022 </h4>
 
-[[Working paper]](/assets/papers/SeleznevTishin_draft.pdf) [[Slides]](/assets/papers/SeleznevTishin_slides.pdf)
+[[Working paper]](/assets/papers/SeleznevTishin_draft.pdf) 
+[[Slides]](/assets/papers/SeleznevTishin_slides.pdf)
   <details>
   <summary>Abstract</summary>
 
@@ -32,7 +33,12 @@ title: Research
  
  
 <h4> Monetary Policy and the Yield Curve (joint with V. Abramov and K. Styrin), 2022 </h4>
-[[Working paper]](/assets/papers/AbramovStyrinTishin_draft.pdf) [[Bank of Russia Working Paper]](https://www.cbr.ru/eng/ec_research/ser/wp_95/) [[Slides]](/assets/papers/AbramovStyrinTishin_slides.pdf)
+[[Working paper]](/assets/papers/AbramovStyrinTishin_draft.pdf) 
+[[Bank of Russia Working Paper]](https://www.cbr.ru/eng/ec_research/ser/wp_95/) 
+[[Slides]](/assets/papers/AbramovStyrinTishin_slides.pdf) 
+
+Media coverage: [[Kommersant (rus)]](https://www.kommersant.ru/doc/5434909)
+
 
   <details>
   <summary>Abstract</summary>
@@ -45,7 +51,9 @@ This paper discusses the impact of monetary policy on financial and macroeconomi
  
 <h4>Preventive monetary and macroprudential policy response to anticipated shocks to financial stability (joint with K. Styrin), 2021 </h4>
 
-[[Working paper]](/assets/papers/StyrinTishin_draft_new.pdf) [[Bank of Russia Working Paper]](https://cbr.ru/eng/ec_research/ser/wp_80/) [[Slides]](/assets/papers/StyrinTishin_slides.pdf)
+[[Working paper]](/assets/papers/StyrinTishin_draft_new.pdf) 
+[[Bank of Russia Working Paper]](https://cbr.ru/eng/ec_research/ser/wp_80/) 
+[[Slides]](/assets/papers/StyrinTishin_slides.pdf)
 
   <details>
   <summary>Abstract</summary>
